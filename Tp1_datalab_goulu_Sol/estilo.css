@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+
+
+h1
+{
+   color:blueviolet;
+}
+
+.titulo-principal
+{
+   font-size: 50px;
+   text-align: center
+}
+
+.subtitulo
+{
+    font-family: "Arvo", serif;
+    text-align: center
+}
+
+
+.conocimientos
+{
+    font-family: "Arvo", serif;
+}
+
+.parrafo
+{
+    font-family: "EB Garamond", serif;
+}
+
+#conocimientos
+{
+    font-family: "EB Garamond", serif;
+}
+
+#historia
+{
+    font-family: "EB Garamond", serif;
+}
+
+
+#foto-perfil
+{
+    width: 450px;
+    height: 500px;
+
+    border-radius: 50%;
+
+    position: relative;
+    left: 41.7%;
+}
+
+#mi-historia
+{
+    font-family: "Arvo", serif;
+    font-family: 20px;
+}
+
+
+.vinculo-linkedin:hover
+{
+    color:white; 
+    background-color: blue;
+    text-decoration: none;
+}
+
+.vinculo-instagram:hover
+{
+    color:white; 
+    background-color: blue;
+}
+
+
+
